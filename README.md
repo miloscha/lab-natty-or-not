@@ -21,10 +21,12 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
+
 Cartão de Natal para a Equipe.
 
 ## 📒 Descrição
 Breve descrição do seu Projeto
+
 Elaboração de um cartão de Natal e Ano Novo personalizado para a equipe com menção da expectativa de conclusão do Bootcamp Caixa de IA Generativa.
 
 ## 🤖 Tecnologias Utilizadas
