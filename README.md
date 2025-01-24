@@ -21,22 +21,35 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
+Cartão de Natal para a Equipe.
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Breve descrição do seu Projeto
+Elaboração de um cartão de Natal e Ano Novo personalizado para a equipe com menção da expectativa de conclusão do Bootcamp Caixa de IA Generativa.
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
 
+IA Generativa ChatGPT –Para elaboração do texto do cartão.
+IA Generativa Leonardo.ai – Para geração da imagem do cartão.
+Ferramenta Power Point – Para edição do cartão.
+
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
+
+Utilizei o ChatGPT para redigir um texto para o cartão. Utilizei as regras FTAE para elaboração de um prompt assertivo. Precisei reformular o prompt algumas vezes e utilizando o mesmo histórico foi possível aprimorar o retorno.
+Utilizei o Leonardo.ai para a geração da imagem do cartão com a descrição das minhas colegas de trabalho relacionadas ao tema de programação. Ficou mais aproximado do que eu queria na terceira tentativa.
+Utilizei o Power Point para montar e editar do cartão.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
+O cartão apresentou uma imagem acolhedora que gera identificação com os membros da equipe gerando significado para os destinatários.
+
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Comente sobre o desafio de criar algo 'natty' com 
+
+Nunca havia utilizado quaisquer ferramentas de IA Generativa e me espantei com a facilidade de “criação”. Mas no fundo do meu coração, me senti uma impostora, principalmente porque se tratou de um cartão de Natal, que pra mim, é algo muito pessoal.
 
 ### Exemplos e Insigths
 
